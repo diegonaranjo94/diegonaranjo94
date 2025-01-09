@@ -1,8 +1,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=OrangeScript&label=Profile%20views&color=0e75b6&style=flat" alt="OrangeScript" /> </p>
 
-**Note** This GitHub profile was created for my masters degree projects. Although it is part of my personal project and portfolio, you can visit my main GitHub profile at [ImDiegodev](https://github.com/imdiegodev1)
-
-🐍 I am a software and cloud developer pursuing a master's degree in software engineering at the Universidad de los Andes in Colombia.
+🐍 I am a Software and Data Engineer pursuing a master's degree in Software Engineering at the Universidad de los Andes in Colombia.
 
 I hope this profile will be useful for your personal projects, work or as a guide to understand what you can find in a master's program related to software engineering.
 
@@ -19,6 +17,9 @@ I hope this profile will be useful for your personal projects, work or as a guid
 - 📫 How to reach me **diegoanr40@hotmail.com** or **da.naranjo10@uniandes.edu.co**
 
 - 📄 Know about my experiences [CV](https://drive.google.com/file/d/1zgyzYY6NTQKaAMUSzsH7MhCS1MMKyo9h/view?usp=sharing)
+
+- :octocat: **Note** This GitHub profile was created for my masters degree projects. Although it is part of my personal project and portfolio, you can visit some old projects at [ImDiegodev](https://github.com/imdiegodev1)
+
 
 ## ⚙ My Stack:
 
