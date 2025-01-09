@@ -6,19 +6,19 @@
 
 I hope this profile will be useful for your personal projects, work or as a guide to understand what you can find in a master's program related to software engineering.
 
-- 🔭 I’m currently working on a BPO company as Data Engineer
+- 🔭 I’m currently working with [Safefleet](https://www.safefleet.net/) as Data and Software Engineer.
 
-- 🌱 I’m getting better in **Cloud computing with AWS and Azure**
+- 🌱 I’m getting better in **.NET and Azure**
 
 - 👯 I’m looking to collaborate in **Startups** and **Cloud projects**
 
-- 🤝 I’m looking for help with **React** and **DevOps**
+- 🤝 I’m looking for help with **.NET** and **Angular**
 
-- 💬 Ask me about **Python, Back-end and Data Engineering in the cloud**
+- 💬 Ask me about **Python, Back-end with Flask and Data Engineering**
 
-- 📫 How to reach me **hi@imdiego.dev**
+- 📫 How to reach me **diegoanr40@hotmail.com** or **da.naranjo10@uniandes.edu.co**
 
-- 📄 Know about my experiences [CV](https://docs.google.com/document/d/1MSTmrS0dtM1XyCVFsqHxqz7l54MJvnt-AdTgLE2C_6M/edit?usp=sharing)
+- 📄 Know about my experiences [CV](https://drive.google.com/file/d/1zgyzYY6NTQKaAMUSzsH7MhCS1MMKyo9h/view?usp=sharing)
 
 ## ⚙ My Stack:
 
