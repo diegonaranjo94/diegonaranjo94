@@ -18,7 +18,7 @@ I hope this profile will be useful for your personal projects, work or as a guid
 
 - 📄 Know about my experiences [CV](https://drive.google.com/file/d/1zgyzYY6NTQKaAMUSzsH7MhCS1MMKyo9h/view?usp=sharing)
 
-- :octocat: **Note** This GitHub profile was created for my masters degree projects. Although it is part of my personal project and portfolio, you can visit some old projects at [ImDiegodev](https://github.com/imdiegodev1)
+- :octocat: **Note** This GitHub profile was created for my masters degree projects. Although it is part of my personal project and portfolio, you can visit some old projects at [imdiegodev1](https://github.com/imdiegodev1)
 
 
 ## ⚙ My Stack:
