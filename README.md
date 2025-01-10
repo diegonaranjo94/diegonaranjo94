@@ -1,6 +1,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=OrangeScript&label=Profile%20views&color=0e75b6&style=flat" alt="OrangeScript" /> </p>
 
-🐍 I am a Software and Data Engineer pursuing a master's degree in Software Engineering at the Universidad de los Andes in Colombia.
+🐍 I am a Software and Data Engineer pursuing a master's degree in Software Engineering at the Universidad de los Andes in Colombia. (Now this is my main github profile)
 
 I hope this profile will be useful for your personal projects, work or as a guide to understand what you can find in a master's program related to software engineering.
 
@@ -23,13 +23,28 @@ I hope this profile will be useful for your personal projects, work or as a guid
 
 ## ⚙ My Stack:
 
-|Programming languages|Frontend|Backend|
-|---|---|---|
-|<img src="https://img.shields.io/badge/Python-323330?style=for-the-badge&logo=python&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/> | <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> | <img src="https://img.shields.io/badge/Django-323330?style=for-the-badge&logo=django&logoColor=092e20" /> <img src="https://img.shields.io/badge/fastapi-323330?style=for-the-badge&logo=fastapi&logoColor=05898b" /> |
+### Programming languages: 
 
-|RDBMS|Dev Tools|My Interests|
-|---|---|---|
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/> | <img src="https://img.shields.io/badge/aws-323330?style=for-the-badge&logo=amazon&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/> | <img src="https://img.shields.io/badge/RedHat-323330?style=for-the-badge&logo=redhat&logoColor=E00401"/> <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/> |
+<img src="https://img.shields.io/badge/Python-323330?style=for-the-badge&logo=python&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/> <img src="https://img.shields.io/badge/csharp-323330?style=for-the-badge&logo=c&logoColor=2747b0"/>
+
+### Frontend:
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/Angular-20232A?style=for-the-badge&logo=angular&logoColor=b02730" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+
+### Backend:
+<img src="https://img.shields.io/badge/.net-323330?style=for-the-badge&logo=dotnet&logoColor=7a125d" /> <img src="https://img.shields.io/badge/flask-323330?style=for-the-badge&logo=flask&logoColor=ffffff" />
+
+### RDBMS:
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
+
+### Dev Tools:
+<img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+
+### Cloud:
+<img src="https://img.shields.io/badge/aws-323330?style=for-the-badge&logo=amazon&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/Azure-4e93de?style=for-the-badge"/>
+
+### My Interests:
+<img src="https://img.shields.io/badge/RedHat-323330?style=for-the-badge&logo=redhat&logoColor=E00401"/> <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+
 
 ## 📈My statistics:
 |[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OrangeScript&show_icons=true&theme=city_lights&hide_progress=true)](https://github.com/OrangeScript/github-readme-stats)|![Diego's GitHub stats](https://github-readme-stats.vercel.app/api?username=OrangeScript&show_icons=true&theme=city_lights)|
@@ -38,14 +53,17 @@ I hope this profile will be useful for your personal projects, work or as a guid
 ## 📞Connect with me:
 <div>
   <p align="center">
-    <a href="https://twitter.com/imdiegui1" target="blank">
-      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="imdiegui1" height="30" width="40" />
+    <a href="https://x.com/imorangedev" target="blank">
+      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="imorange" height="30" width="40" />
     </a>
-  <a href="https://www.linkedin.com/in/imdiegodev/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="imdiegu" height="30" width="40" />
+  <a href="https://www.linkedin.com/in/imorangedev/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="imorange" height="30" width="40" />
     </a>
-  <a href="https://instagram.com/@imdiegui1" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@imdiegui1" height="30" width="40" />
+  <a href="https://www.instagram.com/imorange.dev/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="imorange" height="30" width="40" />
+    </a>
+  <a href="https://github.com/imdiegodev1" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="imorange" height="30" width="40" />
     </a>
   </p>
 </div>
