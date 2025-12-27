@@ -8,7 +8,9 @@ I hope this profile will be useful for your personal projects, work or as a guid
 
 - 🤓 I have a Masters degree in Software Engineering.
 
-- 🥸 My personal project **Itaca**
+- 🥸 My personal project **Itaca**.
+
+- 🎨 I like to design Systems.
 
 - 🌱 I’m getting better in **.NET, Java and Azure**.
 
