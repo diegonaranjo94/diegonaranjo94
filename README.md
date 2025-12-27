@@ -6,15 +6,17 @@ I hope this profile will be useful for your personal projects, work or as a guid
 
 - 🔭 I’m currently working with [Safefleet](https://www.safefleet.net/) as Data and Software Engineer.
 
-- I have a Masters degree in Software Engineering.
+- 🤓 I have a Masters degree in Software Engineering.
 
-- 🌱 I’m getting better in **.NET, Java and Azure**
+- 🥸 My personal project **Itaca**
 
-- I love **3D Modeling**.
+- 🌱 I’m getting better in **.NET, Java and Azure**.
+
+- 👾 I like **3D Modeling**.
 
 - 👯 I’m looking to collaborate in **Startups** and **Cloud projects**
 
-- 🤝 I’m looking for help with **Interface Design**
+- 🤝 I’m looking for help with **Interface Design and threeJs**
 
 - 💬 Ask me about **Python, Back-end with Flask and Data Engineering with Python and Azure**
 
@@ -29,32 +31,28 @@ I hope this profile will be useful for your personal projects, work or as a guid
 
 ### Programming languages: 
 
-<img src="https://img.shields.io/badge/Python-323330?style=for-the-badge&logo=python&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/> <img src="https://img.shields.io/badge/csharp-323330?style=for-the-badge&logo=c&logoColor=2747b0"/>
+<img src="https://img.shields.io/badge/Python-323330?style=for-the-badge&logo=python&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/> <img src="https://img.shields.io/badge/csharp-323330?style=for-the-badge&logo=c&logoColor=2747b0"/> <img src="https://img.shields.io/badge/Java-323330?style=for-the-badge&logo=java&logoColor=2747b0">
 
 ### Frontend:
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/Angular-20232A?style=for-the-badge&logo=angular&logoColor=b02730" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 
 ### Backend:
-<img src="https://img.shields.io/badge/.net-323330?style=for-the-badge&logo=dotnet&logoColor=7a125d" /> <img src="https://img.shields.io/badge/flask-323330?style=for-the-badge&logo=flask&logoColor=ffffff" />
+<img src="https://img.shields.io/badge/.net-323330?style=for-the-badge&logo=dotnet&logoColor=7a125d" /> <img src="https://img.shields.io/badge/flask-323330?style=for-the-badge&logo=flask&logoColor=ffffff" /> <img src="https://img.shields.io/badge/Python-323330?style=for-the-badge&logo=python&logoColor=FFFFFF"/>
 
 ### RDBMS:
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/CosmosDB-323330?style=for-the-badge"> <img src="https://img.shields.io/badge/SQL Serverless-323330?style=for-the-badge">
 
 ### Dev Tools:
-<img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/Github Actions-E44C30?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/terraform-7B42BC?style=for-the-badge"> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 
 ### Cloud:
-<img src="https://img.shields.io/badge/aws-323330?style=for-the-badge&logo=amazon&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/Azure-4e93de?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Azure-4e93de?style=for-the-badge"/> <img src= "https://img.shields.io/badge/gcp-FAFAFA?style=for-the-badge"> <img src="https://img.shields.io/badge/aws-FF9900?style=for-the-badge"/>
 
 ### My Interests:
 <img src="https://img.shields.io/badge/RedHat-323330?style=for-the-badge&logo=redhat&logoColor=E00401"/> <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 
 
-## 📈My statistics:
-|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OrangeScript&show_icons=true&theme=city_lights&hide_progress=true)](https://github.com/OrangeScript/github-readme-stats)|![Diego's GitHub stats](https://github-readme-stats.vercel.app/api?username=OrangeScript&show_icons=true&theme=city_lights)|
-|---|---|
-
-## 📞Connect with me:
+## 📞 Connect with me:
 <div>
   <p align="center">
   <a href="https://www.linkedin.com/in/diegonaranjo94/" target="blank">
