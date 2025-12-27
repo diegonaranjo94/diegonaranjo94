@@ -57,16 +57,13 @@ I hope this profile will be useful for your personal projects, work or as a guid
 ## 📞Connect with me:
 <div>
   <p align="center">
-    <a href="https://x.com/imorangedev" target="blank">
-      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="imorange" height="30" width="40" />
-    </a>
-  <a href="https://www.linkedin.com/in/imorangedev/" target="blank">
+  <a href="https://www.linkedin.com/in/diegonaranjo94/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="imorange" height="30" width="40" />
     </a>
-  <a href="https://www.instagram.com/imorange.dev/" target="blank">
+  <a href="https://www.instagram.com/diegonaranjo.94/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="imorange" height="30" width="40" />
     </a>
-  <a href="https://github.com/imdiegodev1" target="blank">
+  <a href="https://github.com/diegonaranjo94" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="imorange" height="30" width="40" />
     </a>
   </p>
