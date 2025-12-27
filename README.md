@@ -4,7 +4,7 @@
 
 I hope this profile will be useful for your personal projects, work or as a guide to understand what you can find in a master's program related to software engineering.
 
-- 🔭 I’m currently working with [Safefleet](https://www.safefleet.net/) as Data and Software Engineer.
+- 🔭 I’m currently working with **[Safefleet](https://www.safefleet.net/)** as Data and Software Engineer.
 
 - 🤓 I have a Masters degree in Software Engineering.
 
