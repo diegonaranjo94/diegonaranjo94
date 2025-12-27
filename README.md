@@ -1,18 +1,22 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=OrangeScript&label=Profile%20views&color=0e75b6&style=flat" alt="OrangeScript" /> </p>
 
-🐍 I am a Software and Data Engineer pursuing a master's degree in Software Engineering at the Universidad de los Andes in Colombia. (Now this is my main github profile)
+🐍 I am a Software Engineer focused in design systems and data engineering. (Now this is my main github profile)
 
 I hope this profile will be useful for your personal projects, work or as a guide to understand what you can find in a master's program related to software engineering.
 
 - 🔭 I’m currently working with [Safefleet](https://www.safefleet.net/) as Data and Software Engineer.
 
-- 🌱 I’m getting better in **.NET and Azure**
+- I have a Masters degree in Software Engineering.
+
+- 🌱 I’m getting better in **.NET, Java and Azure**
+
+- I love **3D Modeling**.
 
 - 👯 I’m looking to collaborate in **Startups** and **Cloud projects**
 
-- 🤝 I’m looking for help with **.NET** and **Angular**
+- 🤝 I’m looking for help with **Interface Design**
 
-- 💬 Ask me about **Python, Back-end with Flask and Data Engineering**
+- 💬 Ask me about **Python, Back-end with Flask and Data Engineering with Python and Azure**
 
 - 📫 How to reach me **diegoanr40@hotmail.com** or **da.naranjo10@uniandes.edu.co**
 
