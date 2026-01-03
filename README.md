@@ -30,17 +30,21 @@ I hope this profile will be useful for your personal projects, work or as a guid
 
 - Some of my most important projects:
 
-  - ERP [system/architecture](https://github.com/proyectoFinalMiso/proyecto_final_miso_arquitectura) design, [backend](https://github.com/proyectoFinalMiso/proyecto_final_miso_back) and [frontend](https://github.com/diegonaranjo94/proyecto_final_miso_frontend)
+  - ERP [System/Architecture](https://github.com/diegonaranjo94/proyecto_final_miso_arquitectura) design, [Backend](https://github.com/proyectoFinalMiso/proyecto_final_miso_back) with python and [Frontend](https://github.com/diegonaranjo94/proyecto_final_miso_frontend) with NextJS
 
   - API with Nest for [Receipes from different countries](https://github.com/diegonaranjo94/recipes_api_nest)
+ 
+  - Little API with Nest for [Restaurants information](https://github.com/diegonaranjo94/restaurantes_diseno_api)
 
-  - UX expirience improvement of [watch app web and mobile](https://github.com/diegonaranjo94/misw4302_ux)
+  - UX expirience improvement of [Watch app web and mobile](https://github.com/diegonaranjo94/misw4302_ux)
 
-  - Android app for [music collectors](https://github.com/diegonaranjo94/proyecto_misw4203_apps_movil)
+  - Android app for [Music collectors](https://github.com/diegonaranjo94/proyecto_misw4203_apps_movil)
 
   - Ghost content manager [Test strategy and test automation](https://github.com/diegonaranjo94/proyecto_misw4103)
  
   - Full stack python app for [Gym membership management](https://github.com/diegonaranjo94/Proyecto_1)
+ 
+  - Responsive frontend for [Bitcoin broker](https://github.com/diegonaranjo94/Batatabit), visit project [here](https://diegonaranjo94.github.io/Batatabit/)
 
 
 ## ⚙ My Stack:
