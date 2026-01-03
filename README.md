@@ -10,11 +10,11 @@ I hope this profile will be useful for your personal projects, work or as a guid
 
 - 🥸 My personal project **Itaca**.
 
-- 🎨 I like to design Systems.
-
-- 🌱 I’m getting better in **.NET, Java and Azure**.
+- 🎨 I like to **design Systems**.
 
 - 👾 I like **3D Modeling**.
+
+- 🌱 I’m getting better in **.NET, Java and Azure**.
 
 - 👯 I’m looking to collaborate in **Startups** and **Cloud projects**
 
@@ -27,6 +27,20 @@ I hope this profile will be useful for your personal projects, work or as a guid
 - 📄 Know about my experiences [CV](https://drive.google.com/file/d/1zgyzYY6NTQKaAMUSzsH7MhCS1MMKyo9h/view?usp=sharing)
 
 - :octocat: **Note** This GitHub profile was created for my masters degree projects. Although it is part of my personal project and portfolio, you can visit some old projects at [imdiegodev1](https://github.com/imdiegodev1)
+
+- Some of my most important projects:
+
+  - ERP [system/architecture](https://github.com/proyectoFinalMiso/proyecto_final_miso_arquitectura) design, [backend](https://github.com/proyectoFinalMiso/proyecto_final_miso_back) and [frontend](https://github.com/diegonaranjo94/proyecto_final_miso_frontend)
+
+  - API with Nest for [Receipes from different countries](https://github.com/diegonaranjo94/recipes_api_nest)
+
+  - UX expirience improvement of [watch app web and mobile](https://github.com/diegonaranjo94/misw4302_ux)
+
+  - Android app for [music collectors](https://github.com/diegonaranjo94/proyecto_misw4203_apps_movil)
+
+  - Ghost content manager [Test strategy and test automation](https://github.com/diegonaranjo94/proyecto_misw4103)
+ 
+  - Full stack python app for [Gym membership management](https://github.com/diegonaranjo94/Proyecto_1)
 
 
 ## ⚙ My Stack:
