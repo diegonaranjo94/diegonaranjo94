@@ -30,7 +30,7 @@ I hope this profile will be useful for your personal projects, work or as a guid
 
 - Some of my most important projects:
 
-  - ERP [System/Architecture](https://github.com/diegonaranjo94/proyecto_final_miso_arquitectura) design, [Backend](https://github.com/proyectoFinalMiso/proyecto_final_miso_back) with python and [Frontend](https://github.com/diegonaranjo94/proyecto_final_miso_frontend) with NextJS
+  - ERP [System/Architecture](https://github.com/diegonaranjo94/proyecto_final_miso_arquitectura) design, [Backend](https://github.com/diegonaranjo94/proyecto_final_miso_backend) with python and [Frontend](https://github.com/diegonaranjo94/proyecto_final_miso_frontend) with NextJS
 
   - API with Nest for [Receipes from different countries](https://github.com/diegonaranjo94/recipes_api_nest)
  
