@@ -36,7 +36,7 @@ I hope this profile will be useful for your personal projects, work or as a guid
  
   - API with Nest for [Restaurants information](https://github.com/diegonaranjo94/restaurantes_diseno_api)
 
-  - UX expirience improvement of [Watch app web and mobile](https://github.com/diegonaranjo94/misw4302_ux). Also you can check the prototype in Figma for [Web](https://www.figma.com/proto/Ew9s47fZBdySPtyGzMVIly/User-Expirience-Project?node-id=89-3183&t=wGix5spPQWINLYXS-1&starting-point-node-id=89%3A3162) and [Mobile](https://www.figma.com/proto/Ew9s47fZBdySPtyGzMVIly/User-Expirience-Project?node-id=2-2441&t=wGix5spPQWINLYXS-1&starting-point-node-id=2%3A2441)
+  - UX expirience improvement of [Watch app web and mobile](https://github.com/diegonaranjo94/misw4302_ux). Also you can check the prototype in Figma for [Web](https://www.figma.com/proto/Ew9s47fZBdySPtyGzMVIly/User-Expirience-Project?node-id=89-3162&t=wGix5spPQWINLYXS-1&starting-point-node-id=89%3A3162) and [Mobile](https://www.figma.com/proto/Ew9s47fZBdySPtyGzMVIly/User-Expirience-Project?node-id=2-2441&t=wGix5spPQWINLYXS-1&starting-point-node-id=2%3A2441)
 
   - Android app for [Music collectors](https://github.com/diegonaranjo94/proyecto_misw4203_apps_movil)
 
