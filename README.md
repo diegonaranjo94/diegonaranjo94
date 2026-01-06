@@ -32,9 +32,9 @@ I hope this profile will be useful for your personal projects, work or as a guid
 
   - ERP [System/Architecture](https://github.com/diegonaranjo94/proyecto_final_miso_arquitectura) design, [Backend](https://github.com/diegonaranjo94/proyecto_final_miso_backend) with python and [Frontend](https://github.com/diegonaranjo94/proyecto_final_miso_frontend) with NextJS
 
-  - API with Nest for [Receipes from different countries](https://github.com/diegonaranjo94/recipes_api_nest)
+  - API with Nest for [World cuisines Information](https://github.com/diegonaranjo94/world_cuisines_api_nest)
  
-  - Little API with Nest for [Restaurants information](https://github.com/diegonaranjo94/restaurantes_diseno_api)
+  - API with Nest for [Restaurants information](https://github.com/diegonaranjo94/restaurantes_diseno_api)
 
   - UX expirience improvement of [Watch app web and mobile](https://github.com/diegonaranjo94/misw4302_ux)
 
