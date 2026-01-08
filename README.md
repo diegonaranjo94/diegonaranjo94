@@ -30,21 +30,21 @@ I hope this profile will be useful for your personal projects, work or as a guid
 
 - Some of my most important projects:
 
-  - ERP [System/Architecture](https://github.com/diegonaranjo94/proyecto_final_miso_arquitectura) design, [Backend](https://github.com/diegonaranjo94/proyecto_final_miso_backend) with Python and [Frontend](https://github.com/diegonaranjo94/proyecto_final_miso_frontend) with NextJS
+  - ERP [System/Architecture](https://github.com/diegonaranjo94/proyecto_final_miso_arquitectura) design, [Backend](https://github.com/diegonaranjo94/proyecto_final_miso_backend) with Python and [Frontend](https://github.com/diegonaranjo94/proyecto_final_miso_frontend) with NextJS. Complete project to improve inventory and logistics of a big food distributor.
 
-  - API with Nest for [World cuisines Information](https://github.com/diegonaranjo94/world_cuisines_api_nest)
+  - API with Nest for [World cuisines Information](https://github.com/diegonaranjo94/world_cuisines_api_nest). Manage different recipes and understand how they are related to the world.
  
-  - API with Nest for [Restaurants information](https://github.com/diegonaranjo94/restaurantes_diseno_api)
+  - API with Nest for [Restaurants information](https://github.com/diegonaranjo94/restaurantes_diseno_api). Understand the food of every restaurant you want to taste.
 
-  - UX expirience improvement of [Watch app web and mobile](https://github.com/diegonaranjo94/misw4302_ux). Also you can check the prototype in Figma for [Web](https://www.figma.com/proto/Ew9s47fZBdySPtyGzMVIly/User-Expirience-Project?node-id=89-3162&t=wGix5spPQWINLYXS-1&starting-point-node-id=89%3A3162) and [Mobile](https://www.figma.com/proto/Ew9s47fZBdySPtyGzMVIly/User-Expirience-Project?node-id=2-2441&t=wGix5spPQWINLYXS-1&starting-point-node-id=2%3A2441)
+  - UX expirience improvement of [Watch app web and mobile](https://github.com/diegonaranjo94/misw4302_ux). Also you can check the prototype in Figma for [Web](https://www.figma.com/proto/Ew9s47fZBdySPtyGzMVIly/User-Expirience-Project?node-id=89-3162&t=wGix5spPQWINLYXS-1&starting-point-node-id=89%3A3162) and [Mobile](https://www.figma.com/proto/Ew9s47fZBdySPtyGzMVIly/User-Expirience-Project?node-id=2-2441&t=wGix5spPQWINLYXS-1&starting-point-node-id=2%3A2441). What if the watch app in your phone can connect to your tech ecosystem?.
 
-  - Android app for [Music collectors](https://github.com/diegonaranjo94/proyecto_misw4203_apps_movil)
+  - Android app for [Music collectors](https://github.com/diegonaranjo94/proyecto_misw4203_apps_movil). Manage albums and your music collection in Android phones.
 
-  - Ghost content manager [Test strategy and test automation](https://github.com/diegonaranjo94/proyecto_misw4103)
+  - Ghost content manager [Test strategy and test automation](https://github.com/diegonaranjo94/proyecto_misw4103). Amazing example for ones of the biggest content manager, understand how to create great test strategies and identify errors in your front ends.
  
-  - Full stack python app for [Gym membership management](https://github.com/diegonaranjo94/Proyecto_1)
+  - Full stack python app for [Personal trainers and gym enthusiasts](https://github.com/diegonaranjo94/Proyecto_1). It allows to traineers manage their clients exercises.
  
-  - Responsive frontend for [Bitcoin broker](https://github.com/diegonaranjo94/Batatabit), visit project [here](https://diegonaranjo94.github.io/Batatabit/)
+  - Responsive mobile-first landing page for [Bitcoin broker](https://github.com/diegonaranjo94/Batatabit), visit project [here](https://diegonaranjo94.github.io/Batatabit/)
 
 
 ## ⚙ My Stack:
