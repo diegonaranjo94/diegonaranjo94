@@ -44,7 +44,9 @@ I hope this profile will be useful for your personal projects, work or as a guid
  
   - Full stack python app for [Personal trainers and gym enthusiasts](https://github.com/diegonaranjo94/Proyecto_1). It allows to traineers manage their clients exercises.
  
-  - Responsive mobile-first landing page for [Bitcoin broker](https://github.com/diegonaranjo94/Batatabit), visit project [here](https://diegonaranjo94.github.io/Batatabit/)
+  - A FastAPI back end clone for [Twitter](https://github.com/diegonaranjo94/twitter_clone_backend). A good example to learn how FastAPI works and imagine how Twitter (X) system is inside.
+ 
+  - Responsive mobile-first landing page for [Bitcoin broker](https://github.com/diegonaranjo94/Batatabit), visit project [here](https://diegonaranjo94.github.io/Batatabit/).
 
 
 ## ⚙ My Stack:
