@@ -40,7 +40,7 @@ I hope this profile will be useful for your personal projects, work or as a guid
 
   - Android app for [Music collectors](https://github.com/diegonaranjo94/proyecto_misw4203_apps_movil). Manage albums and your music collection in Android phones.
 
-  - Ghost content manager [Test strategy and test automation](https://github.com/diegonaranjo94/proyecto_misw4103). Amazing example for ones of the biggest content manager, understand how to create great test strategies and identify errors in your front ends.
+  - Ghost content manager [Test strategy and test automation](https://github.com/diegonaranjo94/proyecto_misw4103). Amazing example for ones of the biggest content manager, understand how to create great test strategies and identify errors in your front ends. Working with Cypress and Kraken.
  
   - Full stack python app for [Personal trainers and gym enthusiasts](https://github.com/diegonaranjo94/Proyecto_1). It allows to traineers manage their clients exercises.
  
