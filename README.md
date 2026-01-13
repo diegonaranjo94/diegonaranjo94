@@ -6,7 +6,7 @@ I hope this profile will be useful for your personal projects, work or as a guid
 
 - 🔭 I’m currently working with **[Safefleet](https://www.safefleet.net/)** as Data and Software Engineer.
 
-- 🤓 I have a Masters degree in Software Engineering.
+- 🤓 I have a **Masters degree** in Software Engineering.
 
 - 🥸 My personal project **Itaca**.
 
@@ -26,37 +26,46 @@ I hope this profile will be useful for your personal projects, work or as a guid
 
 - 📄 Know about my experiences [CV](https://drive.google.com/file/d/1zgyzYY6NTQKaAMUSzsH7MhCS1MMKyo9h/view?usp=sharing)
 
-- :octocat: **Note** This GitHub profile was created for my masters degree projects. Although it is part of my personal project and portfolio, you can visit some old projects at [imdiegodev1](https://github.com/imdiegodev1)
+- :octocat: **Note** This GitHub profile was created for my masters degree projects. Although it is part of my personal project and portfolio, you can visit some old projects at [imdiegodev1](https://github.com/imdiegodev1). However, almost everything was migrating to this github account.
 
-- Some of my most important projects:
+- 🤓 Some of my most important projects :
 
   - ERP [System/Architecture](https://github.com/diegonaranjo94/proyecto_final_miso_arquitectura) design, [Backend](https://github.com/diegonaranjo94/proyecto_final_miso_backend) with Python and [Frontend](https://github.com/diegonaranjo94/proyecto_final_miso_frontend) with NextJS. Complete project to improve inventory and logistics of a big food distributor.
+ 
+  - I made [#DS4A](https://images.credential.net/embed/o81yb57g.png), [the SoftBank-CorrelationOne](https://www.correlation-one.com/) project with Colombian government. In this project, I have the opportunity to work with Bogota Archive improving the data governance process. You can find the process and result of the project in the following [link](https://lopsided-pulsar-7be.notion.site/Projects-c3cb0772795745fd824f4f37a13060e0?p=cf9ab411e3cc4a4e81b21184343aad05&pm=c). (still recovering some files from an old account).
 
   - API with Nest for [World cuisines Information](https://github.com/diegonaranjo94/world_cuisines_api_nest). Manage different recipes and understand how they are related to the world.
- 
-  - API with Nest for [Restaurants information](https://github.com/diegonaranjo94/restaurantes_diseno_api). Understand the food of every restaurant you want to taste.
 
   - UX expirience improvement of [Watch app web and mobile](https://github.com/diegonaranjo94/misw4302_ux). Also you can check the prototype in Figma for [Web](https://www.figma.com/proto/Ew9s47fZBdySPtyGzMVIly/User-Expirience-Project?node-id=89-3162&t=wGix5spPQWINLYXS-1&starting-point-node-id=89%3A3162) and [Mobile](https://www.figma.com/proto/Ew9s47fZBdySPtyGzMVIly/User-Expirience-Project?node-id=2-2441&t=wGix5spPQWINLYXS-1&starting-point-node-id=2%3A2441). What if the watch app in your phone can connect to your tech ecosystem?.
 
   - Android app for [Music collectors](https://github.com/diegonaranjo94/proyecto_misw4203_apps_movil). Manage albums and your music collection in Android phones.
 
-  - Ghost content manager [Test strategy and test automation](https://github.com/diegonaranjo94/proyecto_misw4103). Amazing example for ones of the biggest content manager, understand how to create great test strategies and identify errors in your front ends. Working with Cypress and Kraken.
- 
-  - Full stack python app for [Personal trainers and gym enthusiasts](https://github.com/diegonaranjo94/Proyecto_1). It allows to traineers manage their clients exercises.
- 
   - A FastAPI back end clone for [Twitter](https://github.com/diegonaranjo94/twitter_clone_backend). A good example to learn how FastAPI works and imagine how Twitter (X) system is inside.
  
+ 
+- 🤏 Other small but amazing projects to experiment with different technologies:
+
+  - API with Nest for [Restaurants information](https://github.com/diegonaranjo94/restaurantes_diseno_api). Understand the food of every restaurant you want to taste.
+ 
+  - Ghost content manager [Test strategy and test automation](https://github.com/diegonaranjo94/proyecto_misw4103). Amazing example with one of the biggest content manager, understand how to create great test strategies and identify errors in your front ends. Working with Cypress and Kraken.
+ 
+  - A small amazing example with #Godot of [Pong](https://github.com/imdiegodev1/Ataripong) the Atari game from 70's. You can play following this [Link](https://imdiegodev1.github.io/Ataripong/). I made this project in 2022 when Pong game was celebrating it's 50th release aniversary. Working with #Godot was an amazing expirience and it help me to have get brief understand of how videogames are made nowadays.
+
   - Responsive mobile-first landing page for [Bitcoin broker](https://github.com/diegonaranjo94/Batatabit), visit project [here](https://diegonaranjo94.github.io/Batatabit/).
+ 
+  - NoCode [personal webpage](https://lopsided-pulsar-7be.notion.site/Hello-I-m-Diego-45f7f02a2ef745b38c97ae18c500a3d7). It was a great opportunity to review no-code tools and create a quick high-fidelity prototype for your projects.
+ 
+  - Full stack python app for [Personal trainers and gym enthusiasts](https://github.com/diegonaranjo94/Proyecto_1). It allows to traineers manage their clients exercise routines.
 
 
 ## ⚙ My Stack:
 
 ### Programming languages: 
 
-<img src="https://img.shields.io/badge/Python-323330?style=for-the-badge&logo=python&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/> <img src="https://img.shields.io/badge/csharp-323330?style=for-the-badge&logo=c&logoColor=2747b0"/> <img src="https://img.shields.io/badge/Java-323330?style=for-the-badge&logo=java&logoColor=2747b0">
+<img src="https://img.shields.io/badge/Python-323330?style=for-the-badge&logo=python&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/> <img src="https://img.shields.io/badge/csharp-323330?style=for-the-badge&logo=c&logoColor=2747b0"/> <img src="https://img.shields.io/badge/Java-323330?style=for-the-badge&logo=java&logoColor=2747b0"> <img src="https://img.shields.io/badge/TypeScript-323330?style=for-the-badge&logo=typescript&logoColor=F7DF1E"/>
 
 ### Frontend:
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/Angular-20232A?style=for-the-badge&logo=angular&logoColor=b02730" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/Angular-20232A?style=for-the-badge&logo=angular&logoColor=b02730" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 
 ### Backend:
 <img src="https://img.shields.io/badge/.net-323330?style=for-the-badge&logo=dotnet&logoColor=7a125d" /> <img src="https://img.shields.io/badge/flask-323330?style=for-the-badge&logo=flask&logoColor=ffffff" /> <img src="https://img.shields.io/badge/Python-323330?style=for-the-badge&logo=python&logoColor=FFFFFF"/>
