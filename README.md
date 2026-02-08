@@ -53,7 +53,7 @@ I hope this profile will be useful for your personal projects, work or as a guid
 
   - Responsive mobile-first landing page for [Bitcoin broker](https://github.com/diegonaranjo94/Batatabit), visit project [here](https://diegonaranjo94.github.io/Batatabit/).
  
-  - NoCode [personal webpage](https://lopsided-pulsar-7be.notion.site/Hello-I-m-Diego-45f7f02a2ef745b38c97ae18c500a3d7). It was a great opportunity to review no-code tools and create a quick high-fidelity prototype for your projects.
+  - NoCode [personal webpage](https://frequent-parsley-cd1.notion.site/Hello-I-m-Diego-2fbb7f35f40681b58b73d18b43ea834d). It was a great opportunity to review no-code tools and create a quick high-fidelity prototype for your projects. **Also, now this is my more personal and human blog**.
  
   - Full stack python app for [Personal trainers and gym enthusiasts](https://github.com/diegonaranjo94/Proyecto_1). It allows to traineers manage their clients exercise routines.
 
